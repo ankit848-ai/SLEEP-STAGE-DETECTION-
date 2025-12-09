@@ -1,0 +1,5 @@
+{
+  "name": "SleepLens",
+  "description": "A multimodal AI sleep analysis tool that combines audio, visual environment data, and fitness tracker summaries to provide deep insights into your sleep quality using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
